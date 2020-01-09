@@ -39,8 +39,7 @@ class ViewController: UIViewController {
         
         mySquare.center = CGPoint(x: 12.5, y: 12.5)
         
-        print(screenHeight)
-        print(screenWidth)
+        
      
         
      down()
